@@ -32,7 +32,7 @@ public class TestCase2 {
     @Test  
     public void testReverseWord(){  
         System.out.println("test case reverse word");  
-        assertEquals("ym eman si nahk",Calculation.reverseWord("my name is khan");  
+        assertEquals("ym eman si nahk",Calculation.reverseWord("my name is thai");  
     }  
     @After  
     public void tearDown() throws Exception {  
